@@ -1,5 +1,7 @@
 ### study-of-basic-gates
 
+**Date:** 24/9/2024
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -86,10 +88,12 @@ endmodule
  
 
 **RTL**
-![ex-6 output1](https://github.com/user-attachments/assets/56d74147-fb4e-4568-b534-bd0b58373c98)
+![ex-1 output1](https://github.com/user-attachments/assets/6f73c3c6-14ec-4041-8e57-7b6a89a95b4d)
+
 
 **output**
-![ex-6 output2](https://github.com/user-attachments/assets/59d30862-cf38-4540-899e-2479c317d06d)
+![ex-1 output2](https://github.com/user-attachments/assets/26d44c2a-d930-4bad-9dc5-8dcb9a21de27)
+
 
 
 **Result:**
